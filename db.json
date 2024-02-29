@@ -1,0 +1,98 @@
+{
+    "productos": [
+      {
+        "id": "1",
+        "nombre": "Croquetas Premium para Gatos",
+        "precio": 15.99,
+        "categoria": "Alimentación",
+        "descripcion": "Croquetas premium especialmente formuladas para gatos adultos. Contiene ingredientes naturales y nutrientes esenciales para la salud felina.",
+        "caducidad": "2024-12-31",
+        "imagen": "img/comida_Perro.jpg"
+      },
+      {
+        "id": "2",
+        "nombre": "Juguete Mordedor para Perros",
+        "precio": 9.99,
+        "categoria": "Juguetes",
+        "descripcion": "Juguete mordedor resistente para perros de todas las razas y tamaños. Ideal para mantener a tu mascota entretenida y estimular su instinto de juego.",
+        "caducidad": "2024-12-31",
+        "imagen": "img/jueguete_mordedor.jpg"
+      },
+      {
+        "id": "3",
+        "nombre": "Jaula Espaciosa para Pericos",
+        "precio": 29.99,
+        "categoria": "Hogar y Jaulas",
+        "descripcion": "Jaula espaciosa y segura para pericos y otras aves pequeñas. Incluye perchas, comederos y bebederos. Fácil de limpiar y ensamblar.",
+        "caducidad": "2024-12-31",
+        "imagen": "img/jaula.jpg"
+      },
+      {
+        "id": "4",
+        "nombre": "Arena Aglomerante para Gatos",
+        "precio": 12.99,
+        "categoria": "Higiene",
+        "descripcion": "Arena aglomerante de alta calidad para mantener la bandeja de arena de tu gato limpia y sin olores. Forma grumos sólidos para facilitar la limpieza.",
+        "caducidad": "2025-06-30",
+        "imagen": "img/arenero.jpg"
+      },
+      {
+        "id": "5",
+        "nombre": "Collar Antipulgas y Garrapatas para Perros",
+        "precio": 18.99,
+        "categoria": "Cuidado y Salud",
+        "descripcion": "Collar repelente de pulgas y garrapatas para perros. Fabricado con ingredientes naturales que ofrecen protección continua durante varios meses.",
+        "caducidad": "2025-09-30",
+        "imagen": "img/antipulgas.jpg"
+      },
+      {
+        "id": "6",
+        "nombre": "Juguete de Cuerda para Periquitos",
+        "precio": 5.49,
+        "categoria": "Juguetes",
+        "descripcion": "Juguete interactivo de cuerda para periquitos y aves pequeñas. Ayuda a mantener a tu mascota activa y entretenida, promoviendo su bienestar físico y mental.",
+        "caducidad": null,
+        "imagen": "img/perico.jpg"
+      }
+    ],
+    "blogs": [
+      {
+        "id": "1",
+        "titulo": "Consejos para una Alimentación Saludable de Gatos",
+        "descripcion": "Descubre cómo proporcionar una alimentación equilibrada y saludable a tu gato. Consejos sobre tipos de comida, frecuencia de alimentación y más.",
+        "categorias": ["Alimentación", "Gatos"],
+        "fecha": "2024-02-28",
+        "autor": "Laura Pérez",
+        "imagen": "img/blog1.jpg"
+      },
+      {
+        "id": "2",
+        "titulo": "Los Mejores Ejercicios para Perros",
+        "descripcion": "Explora una variedad de ejercicios divertidos y beneficiosos para mantener a tu perro en forma y saludable. Desde paseos hasta juegos interactivos.",
+        "categorias": ["Salud", "Perros", "Ejercicio"],
+        "fecha": "2024-02-25",
+        "autor": "Carlos Martínez",
+        "imagen": "img/blog2.jpg"
+      },
+      {
+        "id": "3",
+        "titulo": "Cómo Entrenar a tu Perro para que Haga sus Necesidades en el Exterior",
+        "descripcion": "Consejos prácticos y técnicas de entrenamiento para enseñar a tu perro a hacer sus necesidades en el exterior. ¡Adiós a los accidentes en casa!",
+        "categorias": ["Entrenamiento", "Perros", "Higiene"],
+        "fecha": "2024-02-20",
+        "autor": "María García",
+        "imagen": "img/blog3.jpg"
+      },
+      {
+        "id": "4",
+        "titulo": "Los Mejores Juguetes para Entretener a tu Gato",
+        "descripcion": "Descubre una selección de los juguetes más divertidos y estimulantes para mantener a tu gato activo y feliz. Desde pelotas hasta juguetes con catnip.",
+        "categorias": ["Juguetes", "Gatos", "Entretenimiento"],
+        "fecha": "2024-02-15",
+        "autor": "Pedro Sánchez",
+        "imagen": "img/blog4.jpg"
+      }
+    ]
+}
+  
+  

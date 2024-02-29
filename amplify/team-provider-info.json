@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tiendapet-dev-100239-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335467492:role/amplify-tiendapet-dev-100239-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335467492:role/amplify-tiendapet-dev-100239-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-tiendapet-dev-100239-deployment",
+      "UnauthRoleName": "amplify-tiendapet-dev-100239-unauthRole",
+      "StackName": "amplify-tiendapet-dev-100239",
+      "StackId": "arn:aws:cloudformation:us-east-2:730335467492:stack/amplify-tiendapet-dev-100239/fb006980-d4c8-11ee-9d5d-0261a85e7759",
+      "AmplifyAppId": "d27ga5wm1zrmvj"
+    },
+    "categories": {
+      "auth": {
+        "tiendapetd125ebc4": {}
+      }
+    }
+  }
+}
